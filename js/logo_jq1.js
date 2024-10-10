@@ -3,7 +3,7 @@ $(function() {
 	// related examples and more: http://jquery.malsup.com/cycle/browser.html
 	
 	for (var i = 1; i <= 2; i++) {
-	  $('div').append('<img src="logo1.png"/>');
+	  $('div').append('<img src="../pic/logo1.png"/>');
 	}
 
 	$('.up').cycle({
